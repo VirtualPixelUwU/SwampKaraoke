@@ -1,9 +1,6 @@
 # Slot mapping for the VRChat world.
-# Format: slot | media url | title | description | tags
-# Lines starting with # are ignored. Order here is the order shown in world.
+# Format: slot | URL | title
 
-@header Movie Night
+@header Swamp Karaoke Song Library
 
-001 | https://youtu.be/dQw4w9WgXcQ | Opening Act | Kicks the night off | music,upbeat
-002 | https://www.youtube.com/watch?v=aqz-KE-bpKQ | Big Buck Bunny | Public domain short | short,animation
-003 | https://youtu.be/BHuF3cUf4n8 | Late Night Set | | music,chill
+001 | https://youtu.be/dQw4w9WgXcQ | Rick Astley - Never Gonna Give You Up
