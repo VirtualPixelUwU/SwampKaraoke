@@ -4,3 +4,4 @@
 @header Swamp Karaoke Song Library
 
 001 | https://youtu.be/dQw4w9WgXcQ | Rick Astley - Never Gonna Give You Up
+002 | https://www.youtube.com/watch?v=yPYZpwSpKmA | Rick Astley - Together Forever
