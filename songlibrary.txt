@@ -4,4 +4,7 @@
 @header Swamp Karaoke Song Library
 
 001 | https://youtu.be/dQw4w9WgXcQ | Rick Astley - Never Gonna Give You Up
-002 | https://www.youtube.com/watch?v=yPYZpwSpKmA | Rick Astley - Together Forever
+002 | https://youtu.be/yPYZpwSpKmA | Rick Astley - Together Forever
+003 | https://youtu.be/L_jWHffIx5E | Smash Mouth - All Star
+004 | https://youtu.be/feA64wXhbjo | Bag Raiders - Shooting Stars
+005 | https://youtu.be/y6120QOlsfU | Darude - Sandstorm
