@@ -1,5 +1,6 @@
-# Slot mapping for the VRChat world.
+# Slot mapping for the Swamp Karaoke VRChat world
 # Format: slot | URL | title
+# URL Redirect system made with <3 by VirtualPixel
 
 @header Swamp Karaoke Song Library
 
